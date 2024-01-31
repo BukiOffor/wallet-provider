@@ -1,4 +1,5 @@
 mod handlers;
+mod utils;
 
 use actix_web::{HttpServer, App};
 use log::LevelFilter;
